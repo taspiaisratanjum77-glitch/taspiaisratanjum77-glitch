@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D946EF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Israt+Anjum+Taspia;CSE+Student+%40+UAP+%F0%9F%8E%93;Frontend+Developer+%26+UI+Designer+%F0%9F%8E%A8;Competitive+Programmer+%F0%9F%92%BB;Always+Learning+%26+Building+%E2%9C%A8" alt="Typing SVG" />
+</h1>
+
+
 # 💫 About Me:
 🎨 Interested in Frontend Development & UI Design<br> ⚛️ Currently learning React<br> 🌐 Exploring Backend Development<br> 🧩 Practicing Competitive Programming<br> 🤖 Aspiring to explore AI/ML & AI Engineering<br> 🏆 Love participating in Hackathons & Programming Competitions<br> 🎬 Also exploring Video Editing & Content Creation<br> 💡 Interested in building creative and useful tech products<br> 📚 Always learning, building, and improving
 
